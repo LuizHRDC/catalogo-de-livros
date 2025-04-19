@@ -1,0 +1,16 @@
+:root {
+  --text-color: #ffffff;
+  --background-color: #242424;
+  --primary-color: #646cff;
+  --primary-hover: #535bf2;
+
+  color: var(--text-color);
+  background-color: var(--background-color);
+
+  /* .addbook-container {
+      height: 100vh;
+      overflow-y: hidden !important;
+    } */
+
+
+}
