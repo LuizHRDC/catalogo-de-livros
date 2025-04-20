@@ -13,6 +13,8 @@ const userRoutes = require("./routes/users");
 app.use("/api/users", userRoutes);
 const bookRoutes = require("./routes/books");
 app.use("/api/books", bookRoutes);
+const reportRoutes = require("./routes/reports");
+app.use("/api/reports", reportRoutes);
 
 app.listen(PORT, () => {
   console.log(`Servidor rodando em http://localhost:${PORT}`);
