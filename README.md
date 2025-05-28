@@ -15,9 +15,6 @@ Este projeto é um sistema web para cadastrar, pesquisar, editar, excluir livros
 </tr>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/603ac1dd-3446-4d23-a6ab-7b0af5c366f1" width="300px" alt="Venda/Upgrade Premium" />
-</td>
-<td align="center">
 <img src="https://github.com/user-attachments/assets/dec65863-fe1c-450c-9248-2e5210a6fba7" width="300px" alt="Adicionar Livro" />
 </td>
 </tr>
